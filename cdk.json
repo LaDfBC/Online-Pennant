@@ -1,0 +1,5 @@
+{
+    "app": "npm run ts-compile && node aws/bin/cdk.js",
+    "context": {
+    }
+}
